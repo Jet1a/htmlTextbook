@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(72, 72, 72);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color:chartreuse;
+    text-align: center;
+    text-shadow: 0.4em 0.15em rgba(16, 201, 35, 0.402);
+
+}
+.selector{
+    background-color: aquamarine;
+    text-align: center;
+}
+#idunique{
+    background-color: brown;
+    text-align: center;
+}
+.testpadding{
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 0px 100px;
+    text-align: center;
+}
+.testborder{
+    width: 10rem;
+    height: 1rem;
+    border-style: dotted;
+}
